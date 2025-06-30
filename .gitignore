@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+/credentials/
+*.py[cod]
+.env
+*$py.class
+
+
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
